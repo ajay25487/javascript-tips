@@ -1,8 +1,6 @@
 # javascript-tips
 quick way to learn javascript
 
-# JavaScript Interview Questions & Answers
-
 > Click :star:if you like the project. 
 > 
 ### Table of Contents
